@@ -1,8 +1,6 @@
 # Attribute Equivalency Checker
 Checker for Correctness of Same File- and Attribute Naming Convention Using a Local LLM
 
-# Semantic Column Grouping using LLaMA3 (Ollama)
-
 ## Overview
 
 This project presents a semantic column grouping system designed to identify and standardize attribute naming conventions in CSV datasets. The system leverages a locally deployed Large Language Model (LLaMA3 via Ollama) to perform semantic analysis, enabling accurate grouping of columns that represent the same concept despite variations in naming.
