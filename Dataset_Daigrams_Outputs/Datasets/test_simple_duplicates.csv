@@ -1,0 +1,3 @@
+first_name,fname,FName,customer_id,cust_id,ClientID,email_address,email
+Alice,Alice,Alice,101,101,101,alice@example.com,alice@example.com
+Bob,Bob,Bob,102,102,102,bob@example.com,bob@example.com

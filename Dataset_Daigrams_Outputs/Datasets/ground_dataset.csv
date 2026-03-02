@@ -1,0 +1,6 @@
+fname,frst_nm,first_name,lnme,last_name,sur_nme,surname,cust_id,customer_uuid,user_identifier,prod_id,sku,item_code,product_title,prod_nm,list_price,sale_prc,discount_pct,stars,user_score,rating_count,review_txt,review_body,ship_zip,billing_zip
+Jay,Jy,Jay,Mehta,Mehta,Mehta,Mehta,C1001,3f02b1b0-9b4a-4c11-9c01-8c0123a0a111,U-8891,P-901,SKU-11,IT-778,Noise Cancelling Headphones,NC Headphones,199.99,149.99,25,4.7,5,211,Good sound,Great sound quality and battery life,10115,10115
+Asha,Asha,Asha,Patel,Patel,Patel,Patel,C1002,8b0c1d2a-4b9e-4b44-8b2c-1e1a9a9b2222,U-1022,P-155,SKU-22,IT-342,Smart Watch,Watch Pro,129.0,99.0,23,4.2,4,88,Nice watch,Accurate tracking but strap is average,94105,94016
+Ravi,Rv,Ravi,Sharma,Sharma,Sharma,Sharma,C1003,1a9d7c20-1c8f-4f20-8e1a-2c1e0a0c3333,U-7710,P-211,SKU-33,IT-901,Electric Kettle,Kettle 1.5L,49.99,39.99,20,4.5,5,143,Works well,Boils quickly and easy to clean,30301,30301
+Neha,Neha,Neha,Verma,Verma,Verma,Verma,C1004,4c3b2a10-8a7d-4d11-9a9f-4b4e1c0d4444,U-4501,P-880,SKU-44,IT-114,Wireless Mouse,Mouse Silent,25.5,19.99,22,4.0,4,65,Decent,Quiet clicks but small for big hands,60601,60601
+Omar,Omr,Omar,Ali,Ali,Ali,Ali,C1005,9f0d1c2b-3e4f-5a6b-7c8d-9e0f1a2b5555,U-3309,P-019,SKU-55,IT-500,Bluetooth Speaker,Speaker Mini,79.99,59.99,25,4.8,5,302,Excellent,Loud sound and strong bass,10001,10001
